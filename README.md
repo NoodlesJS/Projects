@@ -7,3 +7,4 @@ All projects are built from scratch starting from sketch, to prototype in Figma 
 | Quick Pokedex |  [Link](https://github.com/NoodlesJS/Quick-Pokedex)|
 | Weather App |  [Link](https://github.com/NoodlesJS/Weather-App/tree/master)|
 | Dog Search App |  [Link](https://github.com/NoodlesJS/Dog-Search-App)|
+| Binary to Decimal | [Link](https://github.com/NoodlesJS/bin2dec)|
